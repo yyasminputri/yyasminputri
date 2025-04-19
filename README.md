@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Informatics%20Engineering%20Student-blue" alt="Student Badge"/>
   <img src="https://img.shields.io/badge/Institution-Institut%20Teknologi%20Sepuluh%20Nopember-orange" alt="ITS Badge"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20UI%2FUX-green" alt="Focus Badge"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%7C%20UI%2FUX%20Design%20%7C%20Data-blue" alt="Focus Badge"/>
 </div>
 
 <br />
