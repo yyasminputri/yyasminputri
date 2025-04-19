@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmin</h1>
 <h3 align="center">I'm Currently pursuing a Bachelor's degree in Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS).</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyasminputri" alt="yyasminputri" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks, Data, UI/UX Design**
 
 - 📝 I regularly write articles on [https://ppb-g-yasminps.blogspot.com/](https://ppb-g-yasminps.blogspot.com/)
