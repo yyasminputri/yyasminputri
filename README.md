@@ -9,8 +9,13 @@
 <br />
 
 ## 👩‍💻 About Me
+I'm an undergraduate  **Informatics Engineering** student at **Institut Teknologi Sepuluh Nopember (ITS)** with a strong interest in software development and data science. I’m passionate about solving real-world problems through technology and enjoy working on projects that challenge my critical thinking and creativity. <br>
 
-I'm pursuing a Bachelor's degree in **Informatics Engineering** at **Institut Teknologi Sepuluh Nopember (ITS)**, with a passion for creating innovative solutions through code and design. Currently focused on expanding my knowledge in frameworks, data analysis, and UI/UX design principles.
+Throughout my academic journey, I’ve developed hands-on experience with both frontend and backend development using modern tools such as React.js, Vue.js, Laravel, and Node.js, and I’ve also explored machine learning by building models using Python and analyzing datasets on Google Colab. <br>
+
+Beyond the classroom, I actively participate in student organizations, where I’ve held leadership roles that helped me grow in communication, collaboration, and project management. I am always eager to learn, take initiative, and adapt to new challenges—qualities I aim to bring to every opportunity I pursue. <br>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyasminputri&theme=tokyonight&hide_border=true&layout=compact" width="45%" alt="Most Used Languages"/>
